@@ -25,13 +25,47 @@ author: indiesoul
 ### 종목 비교
 | 기존 | 새로운 종목 | 다른 대안 | 비중 |
 |---|:---:|---:|
-| `KODEX 200` | `ARIRANG 고배당주` | `static` | 10% |
-| `TIGER 코스닥150` |`TIGER 코스닥150바이오테크`| `TIGER 2차전지테마`  | 10% |
+| `KODEX 200` | `**ARIRANG 고배당주**` | `static` | 10% |
+| `TIGER 코스닥150` |`**TIGER 코스닥150바이오테크**`| `TIGER 2차전지테마`  | 10% |
 | `ARIRANG 미국S&P500(H)` | `ARIRANG 미국S&P500(H)` | `KODEX 선진국MSCI World`  | 10% |
 | `TIGER 미국나스닥100` |`TIGER 미국나스닥100` | `KODEX 중국본토 A50` | 10% |
-| `KODEX WTI원유선물(H)` | `KODEX 선진국MSCI World` | `TIGER 부동산인프라고배당` | 10% |
-| `KODEX 골드선물(H)` | `KODEX 중국본토 A50` |  `KODEX 선진국MSCI World` | 10% |
+| `KODEX WTI원유선물(H)` | `**KODEX 선진국MSCI World**` | `TIGER 부동산인프라고배당` | 10% |
+| `KODEX 골드선물(H)` | `**KODEX 중국본토 A50**` |  `KODEX 선진국MSCI World` | 10% |
 | `KOSEF 국고채10년레버리지` | `KOSEF 국고채10년레버리지` |  |  20% |
 | `TIGER 미국나스닥100` | `TIGER 미국나스닥100` |  | 20% |
 
+
+1. 수익률 비교: 
+- 새로운 포트폴리오 수익률이 조금 앞서고 있다.
+
+![OLD VS NEW] /src/img/newplot(2) "새로운 포트폴리오와 비교"
+
+- 새로운 포트폴리오 각 종목별 수익률 비교
+![NEW 포트폴리오 종목별 수익률] /src/img/newplot(1) "새로운 포트폴리오 각 종목별 수익률 비교"
+
+- 새로운 포트폴리오 각 종목별 상관관계
+![NEW 종목별 상관관계] /src/img/newplot
+
+- 기존 포트폴리오 각 종목별 수익률 비교
+![기존 포트폴리오 종목별 수익률] /src/img/newplot(4) "새로운 포트폴리오 각 종목별 수익률 비교"
+
+- 기존 포트폴리오 각 종목별 상관관계
+![기존 종목별 상관관계] /src/img/newplot(3)
+
+2. 기타 통계 확인
+| 항목 | NEW | OLD |
+| Trades| 269 | 269 |
+| Wins | 135 | 129 |
+| Losses | 134 | 140 |
+| Breakeven | 0 | 0 |
+| Win/Loss Ratio | 1.007 | 0.921 | 
+| Mean Win | 0.004 | 0.003 |
+| Mean Loss | -0.003 | -0.003 |
+| Mean | 0.0 | 0.0 |
+| Std Dev | 0.004 | 0.004 |
+| Max Loss | -0.017 | -0.015 |
+| Max Win | 0.014 | 0.017 |
+| Sharpe Ratio | 0.8992 | 0.5979 |
+| CAGR | 6.00 | 3.57 |
+| MDD | 7.38 | 9.68 |
 
