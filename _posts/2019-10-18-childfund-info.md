@@ -41,16 +41,16 @@ author: indiesoul
 ![OLD VS NEW] /src/img/newplot(2) "새로운 포트폴리오와 비교"
 
 - 새로운 포트폴리오 각 종목별 수익률 비교
-![NEW 포트폴리오 종목별 수익률] /src/img/newplot(1) "새로운 포트폴리오 각 종목별 수익률 비교"
+![NEW 포트폴리오 종목별 수익률] https://indiesoul2.github.io/assets/img/newplot(1) "새로운 포트폴리오 각 종목별 수익률 비교"
 
 - 새로운 포트폴리오 각 종목별 상관관계
-![NEW 종목별 상관관계] /src/img/newplot
+![NEW 종목별 상관관계] https://indiesoul2.github.io/assets/img/newplot
 
 - 기존 포트폴리오 각 종목별 수익률 비교
-![기존 포트폴리오 종목별 수익률] /src/img/newplot(4) "새로운 포트폴리오 각 종목별 수익률 비교"
+![기존 포트폴리오 종목별 수익률] https://indiesoul2.github.io/assets/img/newplot(4) "새로운 포트폴리오 각 종목별 수익률 비교"
 
 - 기존 포트폴리오 각 종목별 상관관계
-![기존 종목별 상관관계] /src/img/newplot(3)
+![기존 종목별 상관관계]https://indiesoul2.github.io/assets/img/newplot(3)
 
 2. 기타 통계 확인
 | 항목 | NEW | OLD |
