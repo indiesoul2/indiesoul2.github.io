@@ -4,8 +4,8 @@ layout: post
 title: 꿈나무 펀드 종목 교체 정보
 subtitle: MDD 낮추고 수익률을 올려보자!!!
 description: 열심히 blogging
-image: blog/assets/img/fund.png
-optimized_image: blog/assets/img/fund.png
+image: assets/img/fund.png
+optimized_image: assets/img/fund.png
 category: finance
 tags:
   - fund
