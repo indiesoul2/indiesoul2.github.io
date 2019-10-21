@@ -4,8 +4,8 @@ layout: post
 title: 꿈나무 펀드 종목 교체 정보
 subtitle: MDD 낮추고 수익률을 올려보자!!!
 description: 열심히 blogging
-image: https://indiesoul2.github.io/assets/img/fund.png
-optimized_image:https://indiesoul2.github.io/assets/img/fund.png
+image: https://indiesoul2.github.io/assets/img/uploads/fund.png
+optimized_image:https://indiesoul2.github.io/assets/img/uploads/fund.png
 category: finance
 tags:
   - fund
@@ -41,16 +41,16 @@ author: indiesoul
 ![OLD VS NEW] /src/img/newplot(2).png "새로운 포트폴리오와 비교"
 
 - 새로운 포트폴리오 각 종목별 수익률 비교
-![NEW 포트폴리오 종목별 수익률] https://indiesoul2.github.io/assets/img/newplot(1).png "새로운 포트폴리오 각 종목별 수익률 비교"
+![NEW 포트폴리오 종목별 수익률] https://indiesoul2.github.io/assets/img/uploads/newplot(1).png "새로운 포트폴리오 각 종목별 수익률 비교"
 
 - 새로운 포트폴리오 각 종목별 상관관계
-![NEW 종목별 상관관계] https://indiesoul2.github.io/assets/img/newplot.png
+![NEW 종목별 상관관계] https://indiesoul2.github.io/assets/img/uploads/newplot.png
 
 - 기존 포트폴리오 각 종목별 수익률 비교
-![기존 포트폴리오 종목별 수익률] https://indiesoul2.github.io/assets/img/newplot(4).png "새로운 포트폴리오 각 종목별 수익률 비교"
+![기존 포트폴리오 종목별 수익률] https://indiesoul2.github.io/assets/img/uploads/newplot(4).png "새로운 포트폴리오 각 종목별 수익률 비교"
 
 - 기존 포트폴리오 각 종목별 상관관계
-![기존 종목별 상관관계]https://indiesoul2.github.io/assets/img/newplot(3).png
+![기존 종목별 상관관계]https://indiesoul2.github.io/assets/img/uploads/newplot(3).png
 
 2. 기타 통계 확인
 | 항목 | NEW | OLD |
