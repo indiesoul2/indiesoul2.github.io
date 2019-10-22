@@ -54,27 +54,22 @@ author: indiesoul
 
 2. 기타 통계 확인
 
-| 항목     |   NEW   |  OLD |
+| 항목     |   **NEW**   |  OLD |
 | :---:    | :---:   | :---: | 
-| Trades    | 269    | 269  |
-| Wins     | 135 | 129 |
-| Losses      | 134 | 140 |
-| Breakeven | 0 | 0 |
-| Win/Loss Ratio | 1.007 | 0.921 | 
-| Mean Win | 0.004 | 0.003 |
-| Mean Loss | -0.003 | -0.003 |
+| Trades    | `269`    | 269  |
+| Wins     | `135` | 129 |
+| Losses      | `134` | 140 |
+| Breakeven | `0` | 0 |
+| Win/Loss Ratio | `1.007` | 0.921 | 
+| Mean Win | `0.004` | 0.003 |
+| Mean Loss | `-0.003` | -0.003 |
 | Mean | 0.0 | 0.0 |
 | Std Dev | 0.004 | 0.004 |
-| Max Loss | -0.017 | -0.015 |
-| Max Win | 0.014 | 0.017 |
-| Sharpe Ratio | 0.8992 | 0.5979 |
-| CAGR | 6.00 | 3.57 |
-| MDD | 7.38 | 9.68 |
+| Max Loss | `-0.017` | -0.015 |
+| Max Win | `0.014` | 0.017 |
+| Sharpe Ratio | `0.8992` | 0.5979 |
+| CAGR | `6.00` | 3.57 |
+| MDD | `7.38` | 9.68 |
 
 3. 결론
 
-이것은 되는데....
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
