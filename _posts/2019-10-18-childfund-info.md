@@ -23,16 +23,16 @@ author: indiesoul
 그래서 일부 종목을 교체하기로 마음 먹고 변경전후를 비교해 보았다.
 
 ### 종목 비교
-| 기존 | 새로운 종목 | 다른 대안 | 비중 |
-| :---: | :---: | :--- | :---: |
-| `KODEX 200` | `**ARIRANG 고배당주**` | `static` | 10% |
-| `TIGER 코스닥150` | `**TIGER 코스닥150바이오테크**` | `TIGER 2차전지테마` | 10% |
-| `ARIRANG 미국S&P500(H)` | `ARIRANG 미국S&P500(H)` | `KODEX 선진국MSCI World`  | 10% |
-| `TIGER 미국나스닥100` |`TIGER 미국나스닥100` | `KODEX 중국본토 A50` | 10% |
-| `KODEX WTI원유선물(H)` | `**KODEX 선진국MSCI World**` | `TIGER 부동산인프라고배당` | 10% |
-| `KODEX 골드선물(H)` | `**KODEX 중국본토 A50**` |  `KODEX 선진국MSCI World` | 10% |
-| `KOSEF 국고채10년레버리지` | `KOSEF 국고채10년레버리지` |  |  20% |
-| `TIGER 미국나스닥100` | `TIGER 미국나스닥100` |  | 20% |
+| 기존                    | 새로운 종목                     | 다른 대안                  | 비중 |
+| :---:                   | :---:                          | :---                       | :---: |
+| `KODEX 200`             | `**ARIRANG 고배당주**`          |                            | 10% |
+| `TIGER 코스닥150`        | `**TIGER 코스닥150바이오테크**` | `TIGER 2차전지테마`         | 10% |
+| `ARIRANG 미국S&P500(H)`  | `ARIRANG 미국S&P500(H)`        | `KODEX 선진국MSCI World`   | 10% |
+| `TIGER 미국나스닥100`     |`TIGER 미국나스닥100`            | `KODEX 중국본토 A50`       | 10% |
+| `KODEX WTI원유선물(H)`    | `**KODEX 선진국MSCI World**`    | `TIGER 부동산인프라고배당` | 10% |
+| `KODEX 골드선물(H)`       | `**KODEX 중국본토 A50**`        |  `KODEX 선진국MSCI World` | 10% |
+| `KOSEF 국고채10년레버리지` | `KOSEF 국고채10년레버리지`      |                           |  20% |
+| `TIGER 미국나스닥100`      | `TIGER 미국나스닥100`         |                            | 20% |
 
 <table>
   <thead>
@@ -61,11 +61,11 @@ author: indiesoul
   </tbody>
 </table>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| 기존          | 새로운 종목    | 다른 대안  | 비중 |
+| ------------- |:-------------:| -----:|  -------- |
+| col 3 is      | right-aligned | $1600 |           |
+| col 2 is      | centered      |   $12 |        |
+| zebra stripes | are neat      |    $1 |    |
 
 1. 수익률 비교: 
 - 새로운 포트폴리오 수익률이 조금 앞서고 있다.
