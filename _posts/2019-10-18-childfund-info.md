@@ -24,16 +24,16 @@ author: indiesoul
 
 ### 종목 비교
 
-| 기존                    | 새로운 종목                | 다른 대안     | 비중 |
-| -------------:          |  :---------------     | :----------:|  ------ |
-| `KODEX 200`             | **ARIRANG 고배당주**       |    |      10%     |
-| `TIGER 코스닥150`       | **TIGER 코스닥150바이오테크**  |   |  10%     |
-| `ARIRANG 미국S&P500(H)` | **KODEX 선진국MSCI World**   |   |  10%  |
-| `TIGER 미국나스닥100`    |                            |  |      10%     |
-| `KODEX WTI원유선물(H)`   |                           |   |  10%     |
-| `KODEX 골드선물(H)`      |                           |   |  10%  |
-| `KOSEF 국고채10년레버리지`  |                        |   |  20%     |
-| `KODEX 미국채10년`       |                           |   |  20%  |
+| 기존                    | 새로운 종목                | 다른 대안     | 비중    |
+| ----------------------: |  :---------------         | :----------: |  ------ |
+| KODEX 200               | **ARIRANG 고배당주**       |              |  10%   |
+| TIGER 코스닥150       | **TIGER 코스닥150바이오테크**  |           |  10%    |
+| ARIRANG 미국S&P500(H) | **KODEX 선진국MSCI World**   |            |  10%   |
+| TIGER 미국나스닥100    |                            |             |  10%    |
+| KODEX WTI원유선물(H)   |                           |              |  10%    |
+| KODEX 골드선물(H)      |                           |              |  10%    |
+| KOSEF 국고채10년레버리지 |                        |               |  20%    |
+| KODEX 미국채10년       |                           |              |  20%    |
 
 1. 수익률 비교: 
 
@@ -44,7 +44,7 @@ author: indiesoul
 ![placeholder](https://indiesoul2.github.io/assets/img/uploads/newplot(1).png "새로운 포트폴리오 각 종목별 수익률 비교")
 
 - 새로운 포트폴리오 각 종목별 상관관계
-![placeholder](https://indiesoul2.github.io/assets/img/uploads/newplot.png) "새로운 포트폴리오 각 종목별 상관관계")
+![placeholder](https://indiesoul2.github.io/assets/img/uploads/newplot.png "새로운 포트폴리오 각 종목별 상관관계")
 
 - 기존 포트폴리오 각 종목별 수익률 비교
 ![alt text](https://indiesoul2.github.io/assets/img/uploads/newplot(4).png "새로운 포트폴리오 각 종목별 수익률 비교")
