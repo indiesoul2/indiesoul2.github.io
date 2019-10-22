@@ -45,8 +45,8 @@ author: indiesoul
   </thead>
   <tfoot>
     <tr>
-      <td>`KODEX 200`</td>
-      <td>`**ARIRANG 고배당주**`</td>
+      <td>KODEX 200</td>
+      <td>ARIRANG 고배당주</td>
       <td> `static`</td>
       <td> 10%</td>
     </tr>
@@ -61,11 +61,16 @@ author: indiesoul
   </tbody>
 </table>
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 1. 수익률 비교: 
 - 새로운 포트폴리오 수익률이 조금 앞서고 있다.
 
-![placeholder](https://indiesoul2.github.io/assets/img/uploads/newplot(1).png "새로운 포트폴리오와 비교")
+![placeholder](https://indiesoul2.github.io/assets/img/uploads/newplot(2).png "새로운 포트폴리오와 비교")
 
 - 새로운 포트폴리오 각 종목별 수익률 비교
 ![placeholder](https://indiesoul2.github.io/assets/img/uploads/newplot(1).png "새로운 포트폴리오 각 종목별 수익률 비교")
