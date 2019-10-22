@@ -26,7 +26,7 @@ author: indiesoul
 | 기존 | 새로운 종목 | 다른 대안 | 비중 |
 | :---: | :---: | :--- | :---: |
 | `KODEX 200` | `**ARIRANG 고배당주**` | `static` | 10% |
-| `TIGER 코스닥150` |`**TIGER 코스닥150바이오테크**`| `TIGER 2차전지테마`  | 10% |
+| `TIGER 코스닥150` | `**TIGER 코스닥150바이오테크**` | `TIGER 2차전지테마` | 10% |
 | `ARIRANG 미국S&P500(H)` | `ARIRANG 미국S&P500(H)` | `KODEX 선진국MSCI World`  | 10% |
 | `TIGER 미국나스닥100` |`TIGER 미국나스닥100` | `KODEX 중국본토 A50` | 10% |
 | `KODEX WTI원유선물(H)` | `**KODEX 선진국MSCI World**` | `TIGER 부동산인프라고배당` | 10% |
@@ -34,23 +34,50 @@ author: indiesoul
 | `KOSEF 국고채10년레버리지` | `KOSEF 국고채10년레버리지` |  |  20% |
 | `TIGER 미국나스닥100` | `TIGER 미국나스닥100` |  | 20% |
 
+<table>
+  <thead>
+    <tr>
+      <th>기존</th>
+      <th>새로운 종목</th>
+      <th>다른 대안</th>
+      <th>비중</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>`KODEX 200`</td>
+      <td>`**ARIRANG 고배당주**`</td>
+      <td> `static`</td>
+      <td> 10%</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>`TIGER 코스닥150`</td>
+      <td> `**TIGER 코스닥150바이오테크**`</td>
+      <td>`TIGER 2차전지테마`</td>
+      <td>10%</td>
+    </tr>
+  </tbody>
+</table>
+
 
 1. 수익률 비교: 
 - 새로운 포트폴리오 수익률이 조금 앞서고 있다.
 
-![alt text] (/src/img/newplot(2).png "새로운 포트폴리오와 비교")
+![placeholder](https://indiesoul2.github.io/assets/img/uploads/newplot(1).png "새로운 포트폴리오와 비교")
 
 - 새로운 포트폴리오 각 종목별 수익률 비교
-![alt text] (https://indiesoul2.github.io/assets/img/uploads/newplot(1).png "새로운 포트폴리오 각 종목별 수익률 비교")
+![placeholder](https://indiesoul2.github.io/assets/img/uploads/newplot(1).png "새로운 포트폴리오 각 종목별 수익률 비교")
 
 - 새로운 포트폴리오 각 종목별 상관관계
-![alt text] (https://indiesoul2.github.io/assets/img/uploads/newplot.png) "새로운 포트폴리오 각 종목별 상관관계")
+![placeholder](https://indiesoul2.github.io/assets/img/uploads/newplot.png) "새로운 포트폴리오 각 종목별 상관관계")
 
 - 기존 포트폴리오 각 종목별 수익률 비교
-![alt text] (https://indiesoul2.github.io/assets/img/uploads/newplot(4).png "새로운 포트폴리오 각 종목별 수익률 비교")
+![alt text](https://indiesoul2.github.io/assets/img/uploads/newplot(4).png "새로운 포트폴리오 각 종목별 수익률 비교")
 
 - 기존 포트폴리오 각 종목별 상관관계
-![alt text] (https://indiesoul2.github.io/assets/img/uploads/newplot(3).png "종목별 상관관계")
+![alt text](https://indiesoul2.github.io/assets/img/uploads/newplot(3).png "종목별 상관관계")
 
 2. 기타 통계 확인
 | 항목 | NEW | OLD |
