@@ -53,6 +53,7 @@ author: indiesoul
 ![alt text](https://indiesoul2.github.io/assets/img/uploads/newplot(3).png "종목별 상관관계")
 
 2. 기타 통계 확인
+
 | 항목     |   NEW   |  OLD |
 | :---:    | :---:   | :---: | 
 | Trades    | 269    | 269  |
@@ -71,3 +72,9 @@ author: indiesoul
 | MDD | 7.38 | 9.68 |
 
 3. 결론
+
+이것은 되는데....
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
