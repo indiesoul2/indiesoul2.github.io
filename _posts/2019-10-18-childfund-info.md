@@ -13,7 +13,7 @@ tags:
 author: indiesoul
 ---
 
-# 꿈나무 펀드 종목을 교체해 보자.
+### 꿈나무 펀드 종목을 교체해 보자.
 
 채 1년이 안 되지만 5%의 수익률을 거두고 있는 우리 아이들의 꿈이 담긴 꿈나무 펀드.
 그동안 시장의 큰 하락폭에도 MDD 2%로 선방하고 있다. 하지만 5% 수익률에서 멈춰 더 이상 나아가질 않는다.
@@ -38,19 +38,19 @@ author: indiesoul
 1. 수익률 비교: 
 - 새로운 포트폴리오 수익률이 조금 앞서고 있다.
 
-![OLD VS NEW] (/src/img/newplot(2).png) "새로운 포트폴리오와 비교"
+![alt text] (/src/img/newplot(2).png "새로운 포트폴리오와 비교")
 
 - 새로운 포트폴리오 각 종목별 수익률 비교
-![NEW 포트폴리오 종목별 수익률] (https://indiesoul2.github.io/assets/img/uploads/newplot(1).png) "새로운 포트폴리오 각 종목별 수익률 비교"
+![alt text] (https://indiesoul2.github.io/assets/img/uploads/newplot(1).png "새로운 포트폴리오 각 종목별 수익률 비교")
 
 - 새로운 포트폴리오 각 종목별 상관관계
-![NEW 종목별 상관관계] (https://indiesoul2.github.io/assets/img/uploads/newplot.png) "새로운 포트폴리오 각 종목별 상관관계"
+![alt text] (https://indiesoul2.github.io/assets/img/uploads/newplot.png) "새로운 포트폴리오 각 종목별 상관관계")
 
 - 기존 포트폴리오 각 종목별 수익률 비교
-![기존 포트폴리오 종목별 수익률] (https://indiesoul2.github.io/assets/img/uploads/newplot(4).png) "새로운 포트폴리오 각 종목별 수익률 비교"
+![alt text] (https://indiesoul2.github.io/assets/img/uploads/newplot(4).png "새로운 포트폴리오 각 종목별 수익률 비교")
 
 - 기존 포트폴리오 각 종목별 상관관계
-![기존 종목별 상관관계] (https://indiesoul2.github.io/assets/img/uploads/newplot(3).png) "종목별 상관관계"
+![alt text] (https://indiesoul2.github.io/assets/img/uploads/newplot(3).png "종목별 상관관계")
 
 2. 기타 통계 확인
 | 항목 | NEW | OLD |
