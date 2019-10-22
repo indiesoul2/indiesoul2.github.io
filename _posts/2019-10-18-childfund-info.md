@@ -55,7 +55,7 @@ author: indiesoul
 2. 기타 통계 확인
 | 항목 | NEW | OLD |
 | :---: | :---: | :---: | 
-| Trades| 269 | 269 |
+| Trades | 269 | 269 |
 | Wins | 135 | 129 |
 | Losses | 134 | 140 |
 | Breakeven | 0 | 0 |
