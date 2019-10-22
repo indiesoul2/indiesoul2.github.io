@@ -63,9 +63,9 @@ author: indiesoul
 
 | 기존          | 새로운 종목    | 다른 대안  | 비중 |
 | ------------- |:-------------:| -----:|  -------- |
-| col 3 is      | right-aligned | $1600 |           |
-| col 2 is      | centered      |   $12 |        |
-| zebra stripes | are neat      |    $1 |    |
+| `KODEX 200`      | `**ARIRANG 고배당주**` | $1600 |      10%     |
+| `TIGER 코스닥150`      | `**TIGER 코스닥150바이오테크**`      |   $12 |  10%     |
+| `ARIRANG 미국S&P500(H)` | `KODEX 선진국MSCI World`      |    $1 |  10%  |
 
 1. 수익률 비교: 
 - 새로운 포트폴리오 수익률이 조금 앞서고 있다.
