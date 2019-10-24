@@ -27,13 +27,15 @@ author: indiesoul
 | 기존                    | 새로운 종목                | 다른 대안     | 비중    |
 | ----------------------: |  :---------------         | :----------: |  ------ |
 | KODEX 200               | **ARIRANG 고배당주**       |              |  10%   |
-| TIGER 코스닥150       | **TIGER 코스닥150바이오테크**  |           |  10%    |
+| TIGER 코스닥150       | **TIGER 코스닥150바이오테크**  |  TIGER 헬스케어  |  10%    |
 | ARIRANG 미국S&P500(H) | **KODEX 선진국MSCI World**   |            |  10%   |
-| TIGER 미국나스닥100    |                            |             |  10%    |
-| KODEX WTI원유선물(H)   |                           |              |  10%    |
+| TIGER 미국나스닥100    | **TIGER 글로벌4차산업혁신기술(합성H)** |  **ARIRANG 미국나스닥기술주**           |  10%    |
+| KODEX WTI원유선물(H)   | **TIGER 부동산인프라고배당**  |  TIGER 2차전지테마            |  10%    |
 | KODEX 골드선물(H)      |                           |              |  10%    |
 | KOSEF 국고채10년레버리지 |                        |               |  20%    |
 | KODEX 미국채10년       |                           |              |  20%    |
+
+* 그밖의 고려 대상: TIGER 우선주, KINDEX 베트남VN30(합성), KODEX 중국본토CSI300, TIGER 유로스탁스배당30, KODEX 중국본토 A50, KOSEF 인도Nifty50(합성)
 
 1. 수익률 비교: 
 
