@@ -4,8 +4,8 @@ layout: post
 title: 동일비중 펀드 시험 가동
 subtitle: 적립식으로 모아갈 동일비중 펀드 소액으로 시작
 description: 열심히 blogging
-image: https://unsplash.com/photos/hpjSkU2UYSU
-optimized_image: https://unsplash.com/photos/hpjSkU2UYSU
+image: https://indiesoul2.github.io/assets/img/uploads/carlos-muza-hpjSkU2UYSU-unsplash.jpeg
+optimized_image: https://indiesoul2.github.io/assets/img/uploads/carlos-muza-hpjSkU2UYSU-unsplash.jpeg
 category: finance
 tags:
   - fund
@@ -32,7 +32,7 @@ JB금융지주, SIMPAC, 아시아경제, 대한화섬, LG상사 등등
     * 대양제지: 소재
     * 사조대림: 필수소비재
     * 아바코: 반도체 및 반도체장비
-    * 한신공영: 산업재
+    * 한신공영: 산업재  
 섹터를 골고루 반영하려 했는데, 평가에서 상위에 있는 종목들은 죄다 이런 산업재, 금융 등과 관련된 종목들로 최근 테마나 정보통신 관련 종목  
 들은 이미 고평가되어 있어 순위가 아주 낮다. 아무래도 가치투자의 성격을 갖다보니 그런가 보다.
 
