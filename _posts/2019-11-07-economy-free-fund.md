@@ -4,8 +4,8 @@ layout: post
 title: 동일비중 펀드 시험 가동
 subtitle: 적립식으로 모아갈 동일비중 펀드 소액으로 시작
 description: 열심히 blogging
-image: https://indiesoul2.github.io/assets/img/uploads/carlos-muza-hpjSkU2UYSU-unsplash.jpeg
-optimized_image: https://indiesoul2.github.io/assets/img/uploads/carlos-muza-hpjSkU2UYSU-unsplash.jpeg
+image: https://indiesoul2.github.io/assets/img/uploads/carlos-muza-hpjSkU2UYSU-unsplash.jpg
+optimized_image: https://indiesoul2.github.io/assets/img/uploads/carlos-muza-hpjSkU2UYSU-unsplash.jpg
 category: finance
 tags:
   - fund
